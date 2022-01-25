@@ -1,0 +1,30 @@
+[
+    {
+        "address": "0x35CFF2528554d00AF7E5e1ff96266F1f5fB45875",
+        "privateKey": "0xd20dfb8d4c9f11228279b04e649b0d20e3572b268c0ed9ccd2683e75ef1fd09b",
+        "publicKey": "0x044ab25c22ffd3dbc3ff47054f2aedcec17cf56b796b0e5a0e6a8d793b32abb68eb2714bfb07193ef4c33a1fa3af92858b83e840de77c115fd572b8d7af3b0b780",
+        "userId": "alexandre.walraevens@tixngo.io",
+        "assets": [
+            {
+                "ticketId": "ticket-num-1201010-001",
+                "tokenId": "1"
+            },
+            {
+                "ticketId": "ticket-num-1201010-002",
+                "tokenId": "2"
+            },
+            {
+                "ticketId": "ticket-num-1201010-003",
+                "tokenId": "3"
+            },
+            {
+                "ticketId": "ticket-num-1201010-004",
+                "tokenId": "4"
+            },
+            {
+                "ticketId": "ticket-num-1201010-005",
+                "tokenId": "5"
+            }
+        ]
+    }
+]
