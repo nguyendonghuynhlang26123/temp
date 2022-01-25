@@ -1,0 +1,7 @@
+node_modules
+.env
+/.yalc
+yalc.lock
+
+src/poc/output/metadata
+src/poc/output/images
